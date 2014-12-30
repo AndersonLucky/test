@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TipsterActivity!</string>
+    <string name="app_name">Tipster</string>
+    
+    <string name="textLbl1">Total amount:</string>
+    <string name="textLbl2">No. of people:</string>
+    <string name="textLbl3">Tip percentage:</string>
+    <string name="textLbl4">Tip amount:</string>
+    <string name="textLbl5">Total to pay:</string>
+    <string name="textLbl6">Total per Person:</string>
+    <string name="textLCalcCount">Russian calculations remaining: </string> 
+    
+    <string name="rdoTxt15">15%</string>
+    <string name="rdoTxt20">20%</string>
+    <string name="rdoTxtOther">Other:</string>
+    
+    <string name="rdoTxt5">5%</string>
+    <string name="rdoTxt10">10%</string>
+    
+    <string name="btnReset">Clear</string>
+    <string name="btnCalculate">Compute</string>
+    <string name="btnThree">Reset</string>
+    
+    <string name="BILLING_RESPONSE_RESULT_OK">Success.</string>
+    <string name="BILLING_RESPONSE_RESULT_USER_CANCELED">User pressed back or canceled.</string>
+    <string name="BILLING_RESPONSE_RESULT_BILLING_UNAVAILABLE">Billing API version is not supported for the type requested.</string>
+    <string name="BILLING_RESPONSE_RESULT_ITEM_UNAVAILABLE">Requested product is not available for purchase.  </string>
+    <string name="BILLING_RESPONSE_RESULT_DEVELOPER_ERROR">Invalid arguments provided to the API.</string>
+    <string name="BILLING_RESPONSE_RESULT_ERROR">In-App Billing response error.</string>
+    <string name="BILLING_RESPONSE_RESULT_ITEM_ALREADY_OWNED">Item is already owned by user.</string>
+    <string name="BILLING_RESPONSE_RESULT_ITEM_NOT_OWNED">Item is not owned by user.</string>
+    
+    <string name="TITLE_US">Tipping Calculator (US)</string>
+    <string name="TITLE_RUSSIA">Tipping Calculator (Russia)</string>
+ 
+    <string-array name="location">
+        <item >United States</item>
+        <item>Russia</item>
+    </string-array>
+
+</resources>
